@@ -22,3 +22,6 @@ Peak Performance: January is the highest revenue month ($116k).
 Operational Bottleneck: Identified Saturday morning as the high-volume "Crunch Time" (505 units).
 
 Leading Category: Food and Beverages ($56,145).
+
+![image_url](https://github.com/Eshydat/Super-Market-Sales-Insight/blob/09e0f711a7ff02ad9d8fd1df1929df3163181e77/Screenshot%202026-01-19%20002517.png)
+
