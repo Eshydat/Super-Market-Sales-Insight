@@ -1,5 +1,6 @@
 # Super-Market-Sales-Insight
 📌 Statement of Purpose
+
 "Excel is the essential bridge between raw, messy data and clear, actionable business intelligence."
 
 This project demonstrates an end-to-end BI workflow, from raw data ingestion to a fully annotated "Analysis" layer and dynamic "Dashboard."
